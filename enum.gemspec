@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.1'
   spec.authors       = ["Scott Holden"]
   spec.email         = ["scott@sshconnection.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Use enumerations in ruby}
+  spec.summary       = %q{Extract Enum from Discourse and added BitflagEnum}
   spec.homepage      = ""
   spec.license       = "MIT"
 
