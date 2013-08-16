@@ -2,10 +2,6 @@ require 'enum'
 
 class BitflagEnum < Enum
 
-  def initialize(*members)
-    super
-  end
-
   private
 
   def populate(*members)
